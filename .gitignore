@@ -1,0 +1,11 @@
+### hole images ###
+script/grasp_images/*
+script/hole_images/*
+script/object_images/*
+script/__pycache__/*
+
+### object detection result ###
+RESULT/*
+
+### Pycache ###
+__pycache__/*
